@@ -1,0 +1,3 @@
+export const ADD__TODO = "Add__TODO";
+export const TOGGLE__COMPLETED = "TOGGLE__COMPLETED"
+export const REMOVE__COMPLETED = "REMOVE__COMPLETED"
